@@ -1,6 +1,6 @@
 # translate_pdf_word package
 
-This is a package for translating pdf or word files into their Chinese versions.
+This is a **Python** package for translating pdf or word files into their Chinese versions.
 
 ### Install the package
 
