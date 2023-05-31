@@ -1,4 +1,4 @@
-# translate_pdf_word package
+# translate_pdf_word package (The project is dead!)
 
 This is a **Python** package for translating pdf or word files into their Chinese versions.
 
